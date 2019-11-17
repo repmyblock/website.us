@@ -214,6 +214,28 @@ FEBRUARY 26 TO APRIL 4, 2019.</a>
 			<TD><A HREF="https://www.oahudemocrats.org">https://www.oahudemocrats.org</A></TD>
 			<TD>&nbsp;</TD>
 		</TR>
+		
+		<TR>
+			<TD>New York</TD>
+			<TD>New York</TD>
+			<TD>All</TD>
+			<TD>County Committee Sunlight Project, LLC.</TD>
+			<TD>Sunlight Project</TD>
+			<TD><A HREF="https://ccsunlight.org">https://ccsunlight.org</A></TD>
+			<TD><A HREF="https://twitter.com/ccsunlight">@ccsunlight</A></TD>
+		</TR>
+
+		
+		<TR>
+			<TD>New York</TD>
+			<TD>New York</TD>
+			<TD>All</TD>
+			<TD>RepMyBlock</TD>
+			<TD>Rep My Block</TD>
+			<TD><A HREF="https://RepMyBlock.NYC">https://repmyblock.nyc</A></TD>
+			<TD><A HREF="https://twitter.com/RepMyBlock">@RepMyBlock</A></TD>
+		</TR>
+
 
 		<TR>
 			<TD>New York</TD>
@@ -225,15 +247,6 @@ FEBRUARY 26 TO APRIL 4, 2019.</a>
 			<TD><A HREF="https://twitter.com/gomyd">@gomyd</A></TD>
 		</TR>
 
-		<TR>
-			<TD>New York</TD>
-			<TD>New York</TD>
-			<TD>All</TD>
-			<TD>County Committee Sunlight Project, LLC.</TD>
-			<TD>Sunlight Project</TD>
-			<TD><A HREF="https://ccsunlight.org">https://ccsunlight.org</A></TD>
-			<TD><A HREF="https://twitter.com/ccsunlight">@ccsunlight</A></TD>
-		</TR>
 
 	<TR>
 			<TD>Kings</TD>
